@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh Panigrahi
-- 👀 Working as Software Engineer at Deutsche Bank
+- 👀 Working as a Software Engineer at Walmart
 - 🌱 I’m currently learning - ReactJs, SpringBoot and Microservices
 - 📫 Contact - panigrahiritesh03@gmail.com
 
